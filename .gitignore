@@ -71,3 +71,6 @@ server//node_modules
 /server/!.vscode/tasks.json
 /server/!.vscode/launch.json
 /server/!.vscode/extensions.json
+
+# serverCofig
+/server/.env
